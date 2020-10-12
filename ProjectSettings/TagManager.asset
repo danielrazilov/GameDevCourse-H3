@@ -15,6 +15,8 @@ TagManager:
   - False Target 6
   - False Target 7
   - NPC
+  - Ganfaul
+  - Paladin
   layers:
   - Default
   - TransparentFX
